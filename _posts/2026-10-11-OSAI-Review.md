@@ -84,7 +84,7 @@ Outside of the lab bugs...the course was pretty freaking cool!
 
 I like the layout, the code and samples were easy to follow and understand. They give you a fun Chrome N-Day to play with. All of the scenario concepts are truly focused on "Red Teaming" not "Penetration Testing" - which was important to me since my specific role currently is Red Team Operator so I appreciated that focus and relevance to my current role.
 
-It's awesome. The labs are fun, the tools are sick, and the exploitation is rewarding and education. But for the money I can sum up what I learned as this:
+It's awesome. The labs are fun, the tools are sick, and the exploitation is rewarding and educating. But for the money I can sum up what I learned as this:
 
 - **Hacking AI is no different from hacking any other piece of technology.** In fact most attacks against an "AI" are really just attacks against micro service style architecture components that have a natural language interface. The attacks are the same. If you put an LLM in front of an MSSQL server, you're going to try SQL injection and xp_cmdshell. That's no different than attacking a microservice that exposes a SQL injection, it's just sketchier because LLM's are non-deterministic. At least you can tell if the microservice code is patched or not. With an LLM may deny SQL tool execution access thousands of times, but then let one slip past because the context of the prompt was convincing enough to break the controls that would've stopped it. So basically...if you're already really good at hacking into systems and infrastructure in general...you are already good at hacking AI systems. Nothing has changed just go watch a few videos on prompt injection and read up on RAG and you'll be basically caught up to speed.
 
