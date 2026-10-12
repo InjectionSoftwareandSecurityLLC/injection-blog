@@ -19,6 +19,12 @@ Yup that's right, I'm saying you should _NOT_ take this certification exam unles
 
 > _The OSAI course is a really detailed, insightful course that provides accurate and up to date techniques for attacking LLMs, Agentic deployments like RAG, conducting supply chain attacks, and even model poisoning attacks. It does all of this from a Red Team lens (i.e. NOT penetration testing) and does a really solid job at it. **BUT** - it isn't worth the time or financial commitment if your intention is to wear it as a badge of honor from a certification. The material and content is good and worth knowing - but OffSec isn't the only holder of this information, so that can be had for cheaper if not free (YouTube exists) meaning that the only benefit this certification provides is to show that you could solve a fairly complex Red Team scenario that had some AI stuff in it within 24 hours. Cool, but means very little unless you're brand new into the industry (in which case you are my one exception, but if so this certification is probably too difficult for you if you're truly "new")._
 
+### DISCLAIMER:
+
+The views expressed in this article do not reflect those of my previous, current, or future employers. These views and stories are my own, and I am choosing to share them for the inspiration and entertainment of others.
+
+Also, this post, like my many others, may contain some “colorful language”. If you are easily offended by this do not proceed, or do, I don’t care…
+
 ---
 
 ## Okay WTF is the OSAI?
